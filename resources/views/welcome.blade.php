@@ -12,6 +12,11 @@
     <a href="#youtube">on youtube</a>, or <a href="#github">on github.com</a>.
 </div>
 <div>
+    <h3>Demo</h3>
+    <p><a href="{{ $signed }}">{{ $signed }}</a></p>
+    <p><a href="{{ $link }}">{{ $link }}</a></p>
+</div>
+<div>
     Let us know if you have any questions or feedback cloud@laravel.com!
 </div>
 </body>
